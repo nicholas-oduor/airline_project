@@ -1,0 +1,42 @@
+h1{
+    color:red;
+    text-align:center;
+    font-weight: bold;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(231, 23, 23);
+  }
+  body{
+      background-image: url(./images/bg.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+  }
+  nav{
+    background-color:black;
+  }
+  .footer{
+    background-color: rgb(221, 28, 28);
+    background-size: cover;
+    background-size: inherit;
+    text-align: center;
+  }
